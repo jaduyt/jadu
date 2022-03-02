@@ -1,0 +1,3 @@
+"ip":"MODSVALASERVER.aternos.me"
+"port":28949"
+"name":"jadu"
